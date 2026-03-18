@@ -25,7 +25,7 @@ SELECT * FROM DUAL;
 
 select * from A;
 select * from B;
-
+--- najwa areefa ghaisani - 103122400028 ---
 ------------------------------------
 -- 1. Cross Join 
 select * from A
@@ -67,7 +67,7 @@ select * from transaksi;
 select * from member
 natural join transaksi;
 
-
+--- najwa areefa ghaisani - 103122400028 ---
 --------------------
 --- 3. Join Using
 select * 
@@ -120,6 +120,7 @@ INSERT ALL
     INTO pengiriman (nip, idprod, iddist) VALUES ('SUP005', '000004', 'DIS003')
 SELECT * FROM dual;
 
+--- najwa areefa ghaisani - 103122400028 ---
 --------------------------------------------------
  -- 6. Left outer join
 select * from pengiriman
@@ -174,6 +175,7 @@ SELECT * FROM dual;
 
 select * from mahasiswa;
 select * from grade_nilai;
+--- najwa areefa ghaisani - 103122400028 ---
 
 ---------------------------
 -- 9. Non-Equijoin
